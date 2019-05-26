@@ -1,0 +1,16 @@
+{
+  "name": "rutas_glob",
+  "version": "1.0.0",
+  "description": "rutas con glob express y nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mhcelso",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "glob": "^7.1.4",
+    "nodemon": "^1.19.1"
+  }
+}
